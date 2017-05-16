@@ -1,0 +1,10 @@
+body{
+background-image: url("../img/bambu.jpeg");
+background-size: cover;s
+}
+span {
+cursor: pointer;
+}
+.restauro{
+cursor: pointer;
+}
